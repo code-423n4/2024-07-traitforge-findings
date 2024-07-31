@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "dimulski",
+  "risk": "2",
+  "title": "Several functions in the TraitForge protocol implement the whenNotPaused modifier, however there is no way to pause and unpause the contracts",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/10"
+}
