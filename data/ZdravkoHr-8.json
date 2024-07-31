@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ZdravkoHr",
+  "risk": "3",
+  "title": "Wrong access control in EntropyGenerator",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/8"
+}
