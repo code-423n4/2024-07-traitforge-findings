@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ZdravkoHr",
+  "risk": "3",
+  "title": "Minted tokens per generation can exceed the `maxTokensPerGen` ",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/21"
+}
