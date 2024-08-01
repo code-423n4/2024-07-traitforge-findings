@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "4rdiii",
+  "risk": "3",
+  "title": "Incorrect Increment By Generation Calculations in `TraitForgeNft::calculateMintPrice`",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/17"
+}
