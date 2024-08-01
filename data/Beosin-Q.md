@@ -9,3 +9,5 @@ In the forgeWithListed function of the EntityForging contract, users are require
     _resetForgingCountIfNeeded(mergerTokenId); // Reset for merger if needed
 
 ......
+
+It is recommended that the excess funds be returned to the users.
