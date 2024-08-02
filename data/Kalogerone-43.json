@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "Kalogerone",
+  "risk": "3",
+  "title": "Aging/maturity calculations are incorrect, resulting in wrong claiming percentage of the NukeFund",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/43"
+}
