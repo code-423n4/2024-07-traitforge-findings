@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "`_incrementGeneration()` incorrectly resets `generationMintCounts` of next generation, erasing the count of tokens minted from forging",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/37"
+}
