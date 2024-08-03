@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "shaka",
+  "risk": "3",
+  "title": "Tokens per generation limit can be surpassed",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/56"
+}
