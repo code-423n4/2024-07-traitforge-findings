@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "hl_",
+  "risk": "2",
+  "title": "Incorrect End Index Calculation in `writeEntropyBatch2` Function",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/44"
+}
