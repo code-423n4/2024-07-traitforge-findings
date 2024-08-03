@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "0xrex",
+  "risk": "2",
+  "title": "Moving to the next generation will fail because of the `onlyOwner` modifier in the `EntropyGenerator` contract",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/63"
+}
