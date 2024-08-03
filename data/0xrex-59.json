@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "Forgers can engineer new generations that exceeds the max generation that can exist breaching the max generation invariant",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/59"
+}
