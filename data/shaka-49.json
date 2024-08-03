@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "shaka",
+  "risk": "2",
+  "title": "Forge potential allows forging different number of tokens depending on gender",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/49"
+}
