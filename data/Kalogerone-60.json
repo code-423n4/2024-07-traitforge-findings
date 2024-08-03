@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "Kalogerone",
+  "risk": "2",
+  "title": "Insufficient checks allow for the \"Golden God\" entropy generation in the first 2 batches",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/60"
+}
