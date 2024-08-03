@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "Kalogerone",
+  "risk": "2",
+  "title": "An entropy with value 0 can be generated which will break the physical trait assignment of the NFTs",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/62"
+}
