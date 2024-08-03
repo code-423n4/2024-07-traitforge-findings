@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "shaka",
+  "risk": "2",
+  "title": "Incorrect implementation of the ratio for Forgers and Mergers",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/51"
+}
