@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Lack of generation limit check in `mintToken` and `mintWithBudget` functions allows bypassing of maxGeneration limit",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/70"
+}
