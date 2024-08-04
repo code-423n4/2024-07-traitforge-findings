@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ke1caM",
+  "risk": "2",
+  "title": "Users can't use `mintWithBudget` after first generation is minted (tokenId > 10000)",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/82"
+}
