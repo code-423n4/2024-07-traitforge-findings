@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "Users might bypass the minimum holding time (minimumDaysHeld).",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/67"
+}
