@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ilchovski",
+  "risk": "2",
+  "title": "Mergers can lose funds or get stuck if they send more than the listing fee during forging",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/112"
+}
