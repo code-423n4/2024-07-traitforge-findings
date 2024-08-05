@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ilchovski",
+  "risk": "2",
+  "title": "fetchListings() will become unusable after a certain point",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/117"
+}
