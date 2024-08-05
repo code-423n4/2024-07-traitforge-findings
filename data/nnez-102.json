@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Forger can forge one more time than allowed due to insufficient validation in `listForForging`  ",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/102"
+}
