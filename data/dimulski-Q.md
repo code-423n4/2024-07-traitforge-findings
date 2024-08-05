@@ -102,7 +102,7 @@ In the [forgeWithListed()](https://github.com/code-423n4/2024-07-traitforge/blob
 In the ``TraitForgeNft.sol`` contract there is no setter function for the maxTokensPerGen parameter. If the owners of the contract decide to increase or decrease the NFTs that can be minted in each new generation, they can't do it.
 
 ### Recommended Mitigation Steps
-Implement a setter function which can set the maxTokensPerGen parameter. This function should only be callable by the owner of the contract. Consider whether the setter function should have certain restrictions to the number to which it can be set, and when it can be set. For example only set it when the contracts are paused. 
+Implement a setter function which can set the maxTokensPerGen parameter. This function should only be callable by the owner of the contract. Consider whether the setter function should have certain restrictions to the number to which it can be set, and when it can be set, and whether the new maxTokensPerGen parameter should affect already minted generations. For example only set it when the contracts are paused. 
 
 # [L-05] The TraitForgeNft::getTokenGeneration function doesn't check if a NFT token exists.
 In the ``TraitForgeNft.sol`` contract the [getTokenGeneration()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/TraitForgeNft/TraitForgeNft.sol#L242-L244) function returns the generation of a certain token, however the function doesn't check whether such a token exists, it may return a result for a token that has already been burned or for a token that is not yet minted. 
