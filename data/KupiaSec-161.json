@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "When an approved actor invokes the `NukeFund.nuke()` function, the funds are transferred to the caller rather than the owner of the `tokenId`.",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/161"
+}
