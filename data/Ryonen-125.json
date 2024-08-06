@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "Ryonen",
+  "risk": "2",
+  "title": "Excess Ether is Not Returned and Will Be Locked Forever",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/125"
+}
