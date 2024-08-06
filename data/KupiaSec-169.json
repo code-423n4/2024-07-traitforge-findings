@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "The `EntityForging.forgeWithListed` function doesn't refund remaining `Eth` to the caller.",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/169"
+}
