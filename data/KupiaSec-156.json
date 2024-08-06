@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "In the `_incrementGeneration()` function, if the number of minted NFTs for the incremented generation has already reached 10,000, it should increment the current generation again.",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/156"
+}
