@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "`pseudoRandomValue` calculated by `% uint256(10) ** 78` in `unchecked` block is incorrect when calling `writeEntropyBatch1`, `writeEntropyBatch2`, and `writeEntropyBatch3` functions",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/193"
+}
