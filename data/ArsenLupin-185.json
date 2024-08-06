@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ArsenLupin",
+  "risk": "2",
+  "title": "mintWithBudget function will become non-executable once 10k _tokenIds will be minted",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/185"
+}
