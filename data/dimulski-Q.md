@@ -7,7 +7,7 @@
 | [L-05](#L-05) | The TraitForgeNft::getTokenGeneration function doesn't check if a NFT token exists|
 | [L-06](#L-06) | EntityTrading::buyNFT() function charges 10% of the fee, and sends it to the NukeFund, however there are no restrictions that NFTs can be sold only via that contract. |
 | [L-07](#L-07) | A single whitelisted user can mint all NFTs |
-
+| [L-08](#L-08) | Code contradicts the docs |
 
 # [L-01] TraitForgeNft::mintWithBudWithBudget() will revert when users try to mint NFTs with ids bigger than **10_000**
 The [mintWithBudget()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/TraitForgeNft/TraitForgeNft.sol#L202-L225) function is used to allow users to mint multiple NFTs within a single transaction. However there is a problem within the while loop. As can be seen from the below code snippet, the condition in the while loop requires that the ``_tokenIds < maxTokensPerGen``, **maxTokensPerGen** is set to **10_000** and cannot be changed. However **_tokenIds** increases with each minted NFT. When the first generation of NFTs is minted, the [mintWithBudget()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/TraitForgeNft/TraitForgeNft.sol#L202-L225) function will always revert. 
@@ -121,3 +121,9 @@ The ``TraitForgeNft.sol`` contracts implement a whitelisting mechanism to allow 
 
 ### Recommended Mitigation Steps
 Consider implementing a whitelisting mechanism, which allows users to mint only a specific predefined number of NFTs. In [mintWithBudget()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/TraitForgeNft/TraitForgeNft.sol#L202-L225) implement additional safety checks to ensure the specified amount of NFTs is not surpassed. 
+
+# [L-08] Code contradicts the docs
+In the docs it is specified that **The Golden God** which is a special entropy of **999_999**, is scanned for and is kept out of the first 2 passes, but is deliberately set in the final pass (at some random point). However this is not the case, the golden god is set via the [initializeAlphaIndices()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/EntropyGenerator/EntropyGenerator.sol#L206-L216) function, which is called in the constructor of the ``EntropyGenerator.sol`` contract. However this function is also called each time a generation is increased, resulting in the golden god entropy being in a different slotIndex and numberIndex for each generation. However the docs imply that the golden god entropy is set only once, and never changes. 
+
+### Recommended Mitigation Steps
+Consider whether the [initializeAlphaIndices()](https://github.com/code-423n4/2024-07-traitforge/blob/main/contracts/EntropyGenerator/EntropyGenerator.sol#L206-L216) function should be called every time the generation is increased, if so specify that in the docs. 
