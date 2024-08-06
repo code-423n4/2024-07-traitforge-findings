@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "`block.number` can be manipulated by a malicious miner when calling `writeEntropyBatch1`, `writeEntropyBatch2`, or `writeEntropyBatch3` function",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/197"
+}
