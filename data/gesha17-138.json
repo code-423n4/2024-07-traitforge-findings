@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "gesha17",
+  "risk": "3",
+  "title": "Incorrect access modifier used on initializeAlphaIndices() function can lead to DoS of tokens minting",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/138"
+}
