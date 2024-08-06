@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Attacker can access private `currentSlotIndex` and `currentNumberIndex` from `EntropyGenerator` contract's storage and have his `mintToken` transaction to be executed when `currentSlotIndex` and `currentNumberIndex` match `slotIndexSelectionPoint` and `numberIndexSelectionPoint` or correspond to a wanted `entropySlots` value",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/195"
+}
