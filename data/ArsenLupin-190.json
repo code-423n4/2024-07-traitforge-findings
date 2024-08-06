@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ArsenLupin",
+  "risk": "2",
+  "title": "Contract is expected to be Pausable, however, it will never could be executed",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/190"
+}
