@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "Before minting, the minter can know the NFT's entropy value.",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/132"
+}
