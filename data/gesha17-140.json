@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "gesha17",
+  "risk": "3",
+  "title": "Reaching the generation mint limit will DoS the forging of tokens from the previous generation",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/140"
+}
