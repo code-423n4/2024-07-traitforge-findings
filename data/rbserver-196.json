@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Malicious miner can force Golden God to be minted to him by manipulating `blockhash`, `block.number`, and `block.timestamp` that are used in `initializeAlphaIndices` function",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/196"
+}
