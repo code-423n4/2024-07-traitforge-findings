@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "gesha17",
+  "risk": "2",
+  "title": "Frontrunning minting of tokens can result in unexpected increased cost for the user, especially when minting in batches",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/137"
+}
