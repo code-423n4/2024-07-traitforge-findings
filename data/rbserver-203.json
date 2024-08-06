@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "Either `deriveTokenParameters` or `listForForging` function is incorrect for calculating `forgePotential` for an `entropy`",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/203"
+}
