@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "klau5",
+  "risk": "2",
+  "title": "More NFTs than maxTokensPerGen can be minted due to incorrect initialization",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/149"
+}
