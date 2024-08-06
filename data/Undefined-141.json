@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "Undefined",
+  "risk": "2",
+  "title": "If `forge` is called for previous generations, it will revert",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/141"
+}
