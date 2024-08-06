@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Calling `mintToken` function can cause user to pay a higher amount than what he should pay for minting first NFT for a new generation that is not first generation",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/194"
+}
