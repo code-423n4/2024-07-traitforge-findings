@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "Executing `require(pseudoRandomValue != 999999, 'Invalid value, retry.')` in `writeEntropyBatch1` and `writeEntropyBatch2` functions are not sufficient for avoiding Golden God entropy",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/202"
+}
