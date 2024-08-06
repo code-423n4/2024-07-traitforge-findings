@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "`forgerOwner` can DOS another user's `forgeWithListed` function call",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/200"
+}
