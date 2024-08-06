@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "0xJoyBoy03",
+  "risk": "3",
+  "title": "Forging the same entity multiple times leads to loss of funds for the nuke contract",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/142"
+}
