@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "Incorrect Initialization of `generationMintCounts` in `TraitForgeNft::_incrementGeneration` Function",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/151"
+}
