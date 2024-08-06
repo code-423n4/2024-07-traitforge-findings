@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "ArsenLupin",
+  "risk": "3",
+  "title": "_incrementGeneration function will never be executed resulting in the DoS",
+  "issueId": 177,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/177"
+}
