@@ -1,0 +1,8 @@
+{
+  "contest": 420,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Nuke factor is only incorrectly increased by `0.25% per year * performanceFactor` instead of `2.5% per year * performanceFactor` in `calculateNukeFactor` function",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/198"
+}
