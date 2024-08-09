@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xvd",
+  "risk": "3",
+  "title": "Incorrect Forging Count Comparison for Forger Tokens",
+  "issueId": 510,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/510",
+  "originalIssueId": 953,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/953"
+}
