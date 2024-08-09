@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Shahil_Hussain",
+  "risk": "2",
+  "title": "Denial of Service (DoS) Vulnerability in the `EntityForging::fetchListings` function",
+  "issueId": 287,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/287",
+  "originalIssueId": 1353,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1353"
+}
