@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "The `nukeFactor` calculation in the `EntropyGenerator.deriveTokenParameters` function is errorneous",
+  "issueId": 330,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/330",
+  "originalIssueId": 1269,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1269"
+}
