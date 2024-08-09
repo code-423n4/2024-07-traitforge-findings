@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "StraawHaat",
+  "risk": "3",
+  "title": "Excess value in `forgeWithListed()` function is not refunded to the user",
+  "issueId": 349,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/349",
+  "originalIssueId": 1237,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1237"
+}
