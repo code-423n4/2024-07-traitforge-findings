@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "turvy_fuzz",
+  "risk": "3",
+  "title": "_incrementGeneration() sets Generationmintcount to zero",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/233",
+  "originalIssueId": 1484,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1484"
+}
