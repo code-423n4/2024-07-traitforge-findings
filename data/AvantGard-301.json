@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "AvantGard",
+  "risk": "2",
+  "title": "Excess ETH should be refunded in `forgeWithListed` function",
+  "issueId": 301,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/301",
+  "originalIssueId": 1328,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1328"
+}
