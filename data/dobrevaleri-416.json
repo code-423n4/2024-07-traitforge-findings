@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dobrevaleri",
+  "risk": "2",
+  "title": "The lack of check for max generation reached allows for the creation of infinite generations.",
+  "issueId": 416,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/416",
+  "originalIssueId": 1145,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1145"
+}
