@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "cryptomoon",
+  "risk": "3",
+  "title": "mintWithBudget function doesn't work once maxTokensPerGen are in circulation",
+  "issueId": 568,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/568",
+  "originalIssueId": 846,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/846"
+}
