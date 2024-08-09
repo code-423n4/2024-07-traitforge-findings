@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "broccolirob",
+  "risk": "3",
+  "title": "Value can become trapped in the `EntityForging` contract",
+  "issueId": 290,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/290",
+  "originalIssueId": 1348,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1348"
+}
