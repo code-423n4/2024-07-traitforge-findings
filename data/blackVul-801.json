@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "blackVul",
+  "risk": "3",
+  "title": " `TraitForgeNft::_incrementGeneration()` fails while calling an onlyOwner function `initializeAlphaIndices()` in `EntropyGenerator.sol` ",
+  "issueId": 801,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/801",
+  "originalIssueId": 453,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/453"
+}
