@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "LonelyWolfDemon",
+  "risk": "3",
+  "title": " Potential Permanent Denial of Service (DoS) Vulnerability in `mintWithBudget` Function Due to Incorrect maxTokensPerGen Check",
+  "issueId": 311,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/311",
+  "originalIssueId": 1309,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1309"
+}
