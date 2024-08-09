@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "perseus",
+  "risk": "3",
+  "title": "Incorrect mint price calculation for the first token of new generations",
+  "issueId": 507,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/507",
+  "originalIssueId": 957,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/957"
+}
