@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "the_hunter",
+  "risk": "3",
+  "title": "NukeFactor Calculation Mismatch",
+  "issueId": 445,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/445",
+  "originalIssueId": 1089,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1089"
+}
