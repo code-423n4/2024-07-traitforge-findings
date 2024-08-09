@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dvrkzy",
+  "risk": "2",
+  "title": "Fee is not calculated as a percentage",
+  "issueId": 437,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/437",
+  "originalIssueId": 1104,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1104"
+}
