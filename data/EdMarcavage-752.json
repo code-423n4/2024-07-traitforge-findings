@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "EdMarcavage",
+  "risk": "3",
+  "title": "Incorrect Access Controls ",
+  "issueId": 752,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/752",
+  "originalIssueId": 546,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/546"
+}
