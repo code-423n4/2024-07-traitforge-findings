@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "shikhar229169",
+  "risk": "2",
+  "title": "`_mintInternal` only increments the generation if current one is full, but other next generations can also be full due to forging entities",
+  "issueId": 345,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/345",
+  "originalIssueId": 1247,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1247"
+}
