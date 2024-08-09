@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Shahil_Hussain",
+  "risk": "3",
+  "title": "Invalid checking in `TraitForgeNft::_mintNewEntity` of currentGeneration Prevents Proper Generation Advancement doing forging process",
+  "issueId": 256,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/256",
+  "originalIssueId": 1421,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1421"
+}
