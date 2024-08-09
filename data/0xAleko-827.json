@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xAleko",
+  "risk": "3",
+  "title": "`TraitForgeNFT:MintWithBudget` DoS after `_tokenIds`  >= 10,000.",
+  "issueId": 827,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/827",
+  "originalIssueId": 392,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/392"
+}
