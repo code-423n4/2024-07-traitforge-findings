@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "VulnViper",
+  "risk": "3",
+  "title": "The owner's NFT can be nuked by approved user.",
+  "issueId": 580,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/580",
+  "originalIssueId": 832,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/832"
+}
