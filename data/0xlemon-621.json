@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xlemon",
+  "risk": "3",
+  "title": "initializeAlphaIndices() can't be called by the NFT contract since its onlyOwner",
+  "issueId": 621,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/621",
+  "originalIssueId": 755,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/755"
+}
