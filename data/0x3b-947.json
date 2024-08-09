@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x3b",
+  "risk": "2",
+  "title": "Minting the first NFT of each gen will only cost `startPrice`",
+  "issueId": 947,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/947",
+  "originalIssueId": 128,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/128"
+}
