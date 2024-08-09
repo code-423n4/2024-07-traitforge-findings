@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "eierina",
+  "risk": "3",
+  "title": "Incorrect Access Control breaks minting and forging",
+  "issueId": 321,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/321",
+  "originalIssueId": 1283,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1283"
+}
