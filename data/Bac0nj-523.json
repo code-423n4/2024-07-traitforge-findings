@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Bac0nj",
+  "risk": "2",
+  "title": "Calculation of forgePotential doesn't comply with the document",
+  "issueId": 523,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/523",
+  "originalIssueId": 925,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/925"
+}
