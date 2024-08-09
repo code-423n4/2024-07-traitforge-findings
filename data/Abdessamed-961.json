@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Abdessamed",
+  "risk": "2",
+  "title": "Forgers can forge one additional time beyond their forge potential for every token",
+  "issueId": 961,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/961",
+  "originalIssueId": 109,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/109"
+}
