@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dontonka",
+  "risk": "3",
+  "title": "`Forging` with `excess funds` is not reimbursed to the merger and is stuck in the contract forever",
+  "issueId": 881,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/881",
+  "originalIssueId": 279,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/279"
+}
