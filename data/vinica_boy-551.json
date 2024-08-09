@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "vinica_boy",
+  "risk": "3",
+  "title": "Nuke transactions can be frontrunned and result in significantly lower reward for users",
+  "issueId": 551,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/551",
+  "originalIssueId": 875,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/875"
+}
