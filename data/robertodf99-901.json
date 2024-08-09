@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "robertodf99",
+  "risk": "2",
+  "title": "Excess payments sent during the forging process will remain locked in the contract",
+  "issueId": 901,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/901",
+  "originalIssueId": 234,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/234"
+}
