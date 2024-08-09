@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "binary",
+  "risk": "3",
+  "title": "players won't be able to mint NFTs using TraitForgeNFT::mintWithBudget function because of invalid validation ",
+  "issueId": 556,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/556",
+  "originalIssueId": 869,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/869"
+}
