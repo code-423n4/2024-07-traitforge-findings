@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "PASCAL",
+  "risk": "2",
+  "title": "`maxGeneration` can get bypassed under normal protocol functions ",
+  "issueId": 587,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/587",
+  "originalIssueId": 822,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/822"
+}
