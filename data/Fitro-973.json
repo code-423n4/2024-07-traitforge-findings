@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Fitro",
+  "risk": "3",
+  "title": "TraitForgeNft.sol :: mintToken() allows the maxGeneration limit to be bypassed, enabling to the users to mint an unlimited number of generations.",
+  "issueId": 973,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/973",
+  "originalIssueId": 86,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/86"
+}
