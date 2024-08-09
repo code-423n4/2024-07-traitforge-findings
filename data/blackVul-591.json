@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "blackVul",
+  "risk": "2",
+  "title": "Overcharging players resulting in Financial Imbalance in EntityForging in the forgeWithListed function",
+  "issueId": 591,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/591",
+  "originalIssueId": 817,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/817"
+}
