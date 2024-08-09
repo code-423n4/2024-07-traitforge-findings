@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "hail_the_lord",
+  "risk": "2",
+  "title": "Excess Ether Sent by User Stuck in Contract Leading to Loss of Funds",
+  "issueId": 236,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/236",
+  "originalIssueId": 1472,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1472"
+}
