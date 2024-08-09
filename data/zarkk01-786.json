@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "zarkk01",
+  "risk": "2",
+  "title": "Contracts can not be paused since they do not implement ```pause``` and ```unpause``` functions",
+  "issueId": 786,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/786",
+  "originalIssueId": 480,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/480"
+}
