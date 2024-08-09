@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "iam_emptyset",
+  "risk": "3",
+  "title": "No maximum generation check for mintToken and mintWithBudget functions ",
+  "issueId": 1004,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1004",
+  "originalIssueId": 9,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/9"
+}
