@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "FastChecker",
+  "risk": "3",
+  "title": "Excess Funds are always lost",
+  "issueId": 744,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/744",
+  "originalIssueId": 566,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/566"
+}
