@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "smbv-1923",
+  "risk": "3",
+  "title": "`mintWithBudget()` gets DOSed when `_tokenIds >maxTokensPerGen`",
+  "issueId": 352,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/352",
+  "originalIssueId": 1233,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1233"
+}
