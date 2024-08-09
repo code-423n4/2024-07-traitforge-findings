@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "jesjupyter",
+  "risk": "3",
+  "title": "`mintWithBudget` will only works for the first `maxTokensPerGen`",
+  "issueId": 812,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/812",
+  "originalIssueId": 432,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/432"
+}
