@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "PASCAL",
+  "risk": "2",
+  "title": "Excess ether sent when EntityForging.forgeWithListed() is not refunded back to the user ",
+  "issueId": 584,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/584",
+  "originalIssueId": 825,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/825"
+}
