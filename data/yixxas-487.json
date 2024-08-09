@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "yixxas",
+  "risk": "3",
+  "title": "No way to pause protocol across multiple contracts",
+  "issueId": 487,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/487",
+  "originalIssueId": 992,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/992"
+}
