@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "Claim amount on Nuke should go to NFT Token owner",
+  "issueId": 918,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/918",
+  "originalIssueId": 206,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/206"
+}
