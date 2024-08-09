@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xPwned",
+  "risk": "2",
+  "title": "Forging Limit Bypass Due to Ineffective Comparison Operator",
+  "issueId": 428,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/428",
+  "originalIssueId": 1120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1120"
+}
