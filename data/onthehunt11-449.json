@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "onthehunt11",
+  "risk": "3",
+  "title": "Nuke factor calculated much slowly than it should",
+  "issueId": 449,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/449",
+  "originalIssueId": 1079,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1079"
+}
