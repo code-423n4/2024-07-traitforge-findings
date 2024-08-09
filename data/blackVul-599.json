@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "blackVul",
+  "risk": "3",
+  "title": "Invalid validation stops `TraitForgeNFT::mintWithBudget` from Minting unintentionally",
+  "issueId": 599,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/599",
+  "originalIssueId": 796,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/796"
+}
