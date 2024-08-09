@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "hail_the_lord",
+  "risk": "3",
+  "title": "High Probability of Missing Entropy Value 999999 (Dynamic Slot and Index Selection)",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/240",
+  "originalIssueId": 1460,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1460"
+}
