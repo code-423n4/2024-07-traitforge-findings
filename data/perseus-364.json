@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "perseus",
+  "risk": "2",
+  "title": "Excess assets sent to `EntityForging::forgeWithListed()` will be locked in the contract",
+  "issueId": 364,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/364",
+  "originalIssueId": 1217,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1217"
+}
