@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "n3smaro",
+  "risk": "3",
+  "title": "Incorrect Calculation of nukeFactor and forgePotential in deriveTokenParameters Function",
+  "issueId": 423,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/423",
+  "originalIssueId": 1132,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1132"
+}
