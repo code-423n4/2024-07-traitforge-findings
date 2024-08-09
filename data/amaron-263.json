@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "amaron",
+  "risk": "2",
+  "title": "`TraitForgeNft::_incrementGeneration` resets `generationMintCounts[currentGeneration]` wrongly, which might lead to unexpected results.",
+  "issueId": 263,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/263",
+  "originalIssueId": 1408,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1408"
+}
