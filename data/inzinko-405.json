@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "inzinko",
+  "risk": "2",
+  "title": "Users can still mint after the max tokens for Generation 10 has being minted",
+  "issueId": 405,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/405",
+  "originalIssueId": 1161,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1161"
+}
