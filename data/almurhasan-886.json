@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "almurhasan",
+  "risk": "2",
+  "title": " Excesses are not refunded to  mergerTokenId’s owner when the function forgeWithListed is called.",
+  "issueId": 886,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/886",
+  "originalIssueId": 264,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/264"
+}
