@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "hakunamatata",
+  "risk": "3",
+  "title": "Forgers can forge with other entities one more time than their forge potential",
+  "issueId": 632,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/632",
+  "originalIssueId": 738,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/738"
+}
