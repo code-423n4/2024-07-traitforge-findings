@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "KaligoAudits",
+  "risk": "3",
+  "title": "[H-02] Forging and minting new NFTs would become impossible in the future, because of access control.",
+  "issueId": 482,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/482",
+  "originalIssueId": 1008,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1008"
+}
