@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "LeFy",
+  "risk": "3",
+  "title": "_incrementGeneration() function in TraitForgeNft.sol will always revert ",
+  "issueId": 619,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/619",
+  "originalIssueId": 757,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/757"
+}
