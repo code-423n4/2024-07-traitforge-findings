@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dhank",
+  "risk": "3",
+  "title": "Excess ETH FUND will get stuck inside EntityForging Contract",
+  "issueId": 300,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/300",
+  "originalIssueId": 1330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1330"
+}
