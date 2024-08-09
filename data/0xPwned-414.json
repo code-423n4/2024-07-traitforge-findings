@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xPwned",
+  "risk": "3",
+  "title": "Overflow in Pseudo-Random Value Calculation",
+  "issueId": 414,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/414",
+  "originalIssueId": 1148,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1148"
+}
