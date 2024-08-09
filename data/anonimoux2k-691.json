@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "anonimoux2k",
+  "risk": "2",
+  "title": "The claimAmount from the nuke action may not go to the NFT owner",
+  "issueId": 691,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/691",
+  "originalIssueId": 640,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/640"
+}
