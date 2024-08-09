@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "LogBytes",
+  "risk": "2",
+  "title": "Pause/unpause functionalities not implemented in many pausable contracts",
+  "issueId": 1007,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1007",
+  "originalIssueId": 4,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/4"
+}
