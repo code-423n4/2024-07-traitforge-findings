@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "McToady",
+  "risk": "2",
+  "title": "`EntropyGenerator::initializeAlphaIndices` has wrong access control, needs `onlyAllowedCaller` as it will be called by the nft contract",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/354",
+  "originalIssueId": 1231,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1231"
+}
