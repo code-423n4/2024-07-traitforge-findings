@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "oxwhite",
+  "risk": "2",
+  "title": "Lack of `Pause/Unpause` functionalities in many pausable contracts ",
+  "issueId": 964,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/964",
+  "originalIssueId": 105,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/105"
+}
