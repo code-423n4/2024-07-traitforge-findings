@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "synackrst",
+  "risk": "3",
+  "title": "Lack of refund logic in forgeWithListed can lead to loss of funds",
+  "issueId": 980,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/980",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/65"
+}
