@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x0bserver",
+  "risk": "2",
+  "title": "Excessive Tokens with Zero Performance Factor in a Generation",
+  "issueId": 265,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/265",
+  "originalIssueId": 1402,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1402"
+}
