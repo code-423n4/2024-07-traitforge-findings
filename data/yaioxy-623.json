@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "yaioxy",
+  "risk": "2",
+  "title": "Lack of Maximum Generation Limit Check During Minting",
+  "issueId": 623,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/623",
+  "originalIssueId": 752,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/752"
+}
