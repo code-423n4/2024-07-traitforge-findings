@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "unnamed",
+  "risk": "2",
+  "title": "Lack of Uniqueness Check in writeEntropyBatch1",
+  "issueId": 761,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/761",
+  "originalIssueId": 532,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/532"
+}
