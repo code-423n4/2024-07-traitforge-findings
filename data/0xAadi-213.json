@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "`mintToken()`, `mintWithBudget()`, and `forge()` in the `TraitForgeNft` Contract Will Fail Due to a Wrong Modifier Used in `EntropyGenerator.initializeAlphaIndices()`",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/213",
+  "originalIssueId": 1308,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1308"
+}
