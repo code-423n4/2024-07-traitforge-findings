@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "avoloder",
+  "risk": "2",
+  "title": "Excess funds are locked in the contract EntityForging.sol",
+  "issueId": 878,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/878",
+  "originalIssueId": 286,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/286"
+}
