@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "anonymousjoe",
+  "risk": "2",
+  "title": "mintWithBudget() function doesnt work after 1st generation",
+  "issueId": 689,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/689",
+  "originalIssueId": 642,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/642"
+}
