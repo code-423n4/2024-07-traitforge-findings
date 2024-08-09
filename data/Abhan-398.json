@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Abhan",
+  "risk": "3",
+  "title": "`mintWithBudget` function will not work after 10000 NFTs minted due to `_tokenIds` in while loop ",
+  "issueId": 398,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/398",
+  "originalIssueId": 1170,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1170"
+}
