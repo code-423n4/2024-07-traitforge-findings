@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "denzi_",
+  "risk": "3",
+  "title": "Invalid Calculation of `mintPrice` for the first entity for each new generation in `TraitForgeNft.sol`",
+  "issueId": 241,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/241",
+  "originalIssueId": 1454,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1454"
+}
