@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "hail_the_lord",
+  "risk": "3",
+  "title": "Off-By-One Error in Forge and Merge Token Potential Checks",
+  "issueId": 248,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/248",
+  "originalIssueId": 1438,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1438"
+}
