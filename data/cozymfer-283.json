@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "cozymfer",
+  "risk": "3",
+  "title": "Front Running the burn/claim of 'NukeFund::nuke'",
+  "issueId": 283,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/283",
+  "originalIssueId": 1359,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1359"
+}
