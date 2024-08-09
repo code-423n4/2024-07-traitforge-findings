@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "3n0ch",
+  "risk": "2",
+  "title": "`999999` entropy still can appear in `writeEntropyBatch1` and `writeEntropyBatch2`",
+  "issueId": 389,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/389",
+  "originalIssueId": 1181,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1181"
+}
