@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Incorrect forgingCounts process in forge",
+  "issueId": 982,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/982",
+  "originalIssueId": 57,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/57"
+}
