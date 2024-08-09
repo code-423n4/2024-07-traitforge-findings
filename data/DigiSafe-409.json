@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "DigiSafe",
+  "risk": "2",
+  "title": "[M-01] Denial of Service of `TraitForgeNft.sol:mintWithBudget` when current generation is > 1",
+  "issueId": 409,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/409",
+  "originalIssueId": 1154,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1154"
+}
