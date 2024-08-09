@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "bhavya0911",
+  "risk": "2",
+  "title": "Pausing contract functionality does not work",
+  "issueId": 237,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/237",
+  "originalIssueId": 1470,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1470"
+}
