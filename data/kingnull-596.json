@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "kingnull",
+  "risk": "3",
+  "title": "Generation Increment Failure Due to Misaligned Contract Ownership",
+  "issueId": 596,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/596",
+  "originalIssueId": 807,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/807"
+}
