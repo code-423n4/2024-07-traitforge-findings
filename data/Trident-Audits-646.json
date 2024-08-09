@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Trident-Audits",
+  "risk": "3",
+  "title": "Incorrect higher mint price for the first token minted in each generation starting from the second generation",
+  "issueId": 646,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/646",
+  "originalIssueId": 711,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/711"
+}
