@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "Off by one error in EntityForging allows users to forge/merge one extra time",
+  "issueId": 821,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/821",
+  "originalIssueId": 414,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/414"
+}
