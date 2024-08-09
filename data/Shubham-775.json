@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Shubham",
+  "risk": "2",
+  "title": "`mintWithBudget()` will not work after minting has been completed for generation 1",
+  "issueId": 775,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/775",
+  "originalIssueId": 512,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/512"
+}
