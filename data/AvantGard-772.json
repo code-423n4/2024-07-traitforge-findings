@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "AvantGard",
+  "risk": "2",
+  "title": " `mintWithBudget` does not allow minting tokenIDs greater than 10000",
+  "issueId": 772,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/772",
+  "originalIssueId": 516,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/516"
+}
