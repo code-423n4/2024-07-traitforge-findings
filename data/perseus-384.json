@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "perseus",
+  "risk": "2",
+  "title": "Off-by-one error in `EntityForging::listForForging`",
+  "issueId": 384,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/384",
+  "originalIssueId": 1189,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1189"
+}
