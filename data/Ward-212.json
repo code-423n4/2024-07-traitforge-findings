@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Ward",
+  "risk": "2",
+  "title": "Pause and unpause functions are inaccessible",
+  "issueId": 212,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/212",
+  "originalIssueId": 1354,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1354"
+}
