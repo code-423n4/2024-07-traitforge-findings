@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Shahil_Hussain",
+  "risk": "3",
+  "title": "Inability to Pause or unpause Protocol Due to Missing Overrides in all Contracts",
+  "issueId": 264,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/264",
+  "originalIssueId": 1404,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1404"
+}
