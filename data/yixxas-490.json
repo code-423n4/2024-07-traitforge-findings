@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "yixxas",
+  "risk": "2",
+  "title": "Improper access control in the Airdrop contract",
+  "issueId": 490,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/490",
+  "originalIssueId": 985,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/985"
+}
