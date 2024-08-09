@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Tomas0707",
+  "risk": "2",
+  "title": "Inadequate Validation for Pseudo-Random Value 999999 in Entropy Generation",
+  "issueId": 926,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/926",
+  "originalIssueId": 186,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/186"
+}
