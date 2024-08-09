@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Ruhum",
+  "risk": "2",
+  "title": "`TraitForgeNft.mintWithBudget()` won't be callable after the first 10,000 tokens have been minted",
+  "issueId": 813,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/813",
+  "originalIssueId": 431,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/431"
+}
