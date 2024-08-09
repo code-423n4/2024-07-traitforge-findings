@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "adamn000",
+  "risk": "2",
+  "title": "Ownable modifier won't allow to execute function",
+  "issueId": 521,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/521",
+  "originalIssueId": 935,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/935"
+}
