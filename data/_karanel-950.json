@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "_karanel",
+  "risk": "3",
+  "title": "[H-3] `TraitForgeNft::_incrementGeneration` resets the `generationMintCounts[currentGeneration]` to `0`, causing more than 10000 NFTs of the future generations to be minted",
+  "issueId": 950,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/950",
+  "originalIssueId": 123,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/123"
+}
