@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "nikhil840096",
+  "risk": "3",
+  "title": "Tokens per Generation Maximum Limit Can Be Bypassed",
+  "issueId": 419,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/419",
+  "originalIssueId": 1141,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1141"
+}
