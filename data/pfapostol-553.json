@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "pfapostol",
+  "risk": "2",
+  "title": "The lack of generation increase results in `mintWithBudget` doing nothing and wasting the user's gas.",
+  "issueId": 553,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/553",
+  "originalIssueId": 873,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/873"
+}
