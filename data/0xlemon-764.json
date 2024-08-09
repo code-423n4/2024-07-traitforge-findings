@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xlemon",
+  "risk": "2",
+  "title": "TraitForgeNft doesn't implement all of Airdrop's onlyOwner functions",
+  "issueId": 764,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/764",
+  "originalIssueId": 527,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/527"
+}
