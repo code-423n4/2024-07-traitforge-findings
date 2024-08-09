@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "denzi_",
+  "risk": "3",
+  "title": "Incrementing the generation does not consider the forged entities of the new generation and resets the count of entities to 0",
+  "issueId": 235,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/235",
+  "originalIssueId": 1474,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1474"
+}
