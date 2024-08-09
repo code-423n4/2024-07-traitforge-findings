@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xlookman",
+  "risk": "2",
+  "title": "Tokens can be minted beyond the `maxTokensPerGen` in TraitForgeNft through `Forging`",
+  "issueId": 727,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/727",
+  "originalIssueId": 587,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/587"
+}
