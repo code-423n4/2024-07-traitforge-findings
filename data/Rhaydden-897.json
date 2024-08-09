@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Flawed token limit check in `mintWithBudget` allows unlimited minting per generation",
+  "issueId": 897,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/897",
+  "originalIssueId": 240,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/240"
+}
