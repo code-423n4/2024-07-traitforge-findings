@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xDazai",
+  "risk": "2",
+  "title": "`mintWithBudget()` won't mint tokens after `generation 1 ` is being incremented , because of wrong condition in while loop",
+  "issueId": 865,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/865",
+  "originalIssueId": 321,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/321"
+}
