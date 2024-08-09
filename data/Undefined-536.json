@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Undefined",
+  "risk": "2",
+  "title": "EntityForging::fetchListings DOS",
+  "issueId": 536,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/536",
+  "originalIssueId": 901,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/901"
+}
