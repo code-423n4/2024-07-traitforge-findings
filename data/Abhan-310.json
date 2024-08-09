@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Abhan",
+  "risk": "2",
+  "title": "Mis-match in `forgePotential` variable calculation",
+  "issueId": 310,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/310",
+  "originalIssueId": 1311,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1311"
+}
