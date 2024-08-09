@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x3b",
+  "risk": "2",
+  "title": "Entropy can be 0 and create",
+  "issueId": 870,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/870",
+  "originalIssueId": 313,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/313"
+}
