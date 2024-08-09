@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "VulnViper",
+  "risk": "3",
+  "title": "Costing much fee while forge with `forgeWithListed`",
+  "issueId": 581,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/581",
+  "originalIssueId": 831,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/831"
+}
