@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Udsen",
+  "risk": "3",
+  "title": "The `mintPrice` calculation is broken when the first NFT of the next generation is minted",
+  "issueId": 387,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/387",
+  "originalIssueId": 1184,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1184"
+}
