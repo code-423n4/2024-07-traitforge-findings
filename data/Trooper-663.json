@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Trooper",
+  "risk": "2",
+  "title": "TraitForgeNft: Generation mint count is wrong and allows for more than 10,000 NFTs per generation",
+  "issueId": 663,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/663",
+  "originalIssueId": 686,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/686"
+}
