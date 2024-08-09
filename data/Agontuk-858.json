@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Agontuk",
+  "risk": "2",
+  "title": "Lack of Generation Limit Check May Lead to Unexpected Behavior (`TraitForgeNft::_incrementGeneration`)",
+  "issueId": 858,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/858",
+  "originalIssueId": 342,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/342"
+}
