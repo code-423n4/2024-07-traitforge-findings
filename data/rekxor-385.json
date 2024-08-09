@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "rekxor",
+  "risk": "2",
+  "title": "`EntityForging.sol::forgeWithListed()` allows merger to call function with `msg.value` > Listing.fee but the excess amount is not refunded back to the caller(merger)",
+  "issueId": 385,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/385",
+  "originalIssueId": 1186,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1186"
+}
