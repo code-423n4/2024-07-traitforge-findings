@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "hakunamatata",
+  "risk": "3",
+  "title": "Increment Generation function reverts because the owner of the entropy generator contract is not the nft contract.",
+  "issueId": 634,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/634",
+  "originalIssueId": 735,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/735"
+}
