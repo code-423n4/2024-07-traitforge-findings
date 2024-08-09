@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "AvantGard",
+  "risk": "3",
+  "title": "`_incrementGeneration` reverts due to access control restriction in `initializeAlphaIndices` ",
+  "issueId": 773,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/773",
+  "originalIssueId": 515,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/515"
+}
