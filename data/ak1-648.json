@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "ak1",
+  "risk": "2",
+  "title": "Abstract contract Pausable is inherited but the function to ON or OFF is missed to implement",
+  "issueId": 648,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/648",
+  "originalIssueId": 707,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/707"
+}
