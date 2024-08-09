@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Tomas0707",
+  "risk": "2",
+  "title": "Incorrect Calculation of Mint Price",
+  "issueId": 977,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/977",
+  "originalIssueId": 77,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/77"
+}
