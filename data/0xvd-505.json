@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xvd",
+  "risk": "2",
+  "title": "Incorrect Fee Calculation in Forging Process",
+  "issueId": 505,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/505",
+  "originalIssueId": 960,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/960"
+}
