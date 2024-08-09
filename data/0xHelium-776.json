@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xHelium",
+  "risk": "3",
+  "title": "Wrong use of OnlyOwner modifier will DoS the whole protocol forever and prevent minting of tokens of new generation",
+  "issueId": 776,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/776",
+  "originalIssueId": 511,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/511"
+}
