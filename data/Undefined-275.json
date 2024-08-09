@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Undefined",
+  "risk": "2",
+  "title": "Nuking a token that is listed for forging leads to stale data in the EntityForging contract",
+  "issueId": 275,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/275",
+  "originalIssueId": 1380,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1380"
+}
