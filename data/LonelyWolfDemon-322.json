@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "LonelyWolfDemon",
+  "risk": "2",
+  "title": "Incorrect Derivation of Token Parameters Leading to Miscalculated Forge Potential and Nuke Factor",
+  "issueId": 322,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/322",
+  "originalIssueId": 1282,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1282"
+}
