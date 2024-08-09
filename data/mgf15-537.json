@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "mgf15",
+  "risk": "2",
+  "title": "`pause/unpause` functionalities not implemented in many pausable contracts",
+  "issueId": 537,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/537",
+  "originalIssueId": 900,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/900"
+}
