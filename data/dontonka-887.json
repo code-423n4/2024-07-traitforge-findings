@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`Forging and minting` can `clash` together which break accounting allowing to mint `beyond 10k limit` per generation",
+  "issueId": 887,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/887",
+  "originalIssueId": 257,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/257"
+}
