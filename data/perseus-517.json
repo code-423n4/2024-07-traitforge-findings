@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "perseus",
+  "risk": "3",
+  "title": "Incorrect implementation of calculateNukeFactor() results in unfair fund distribution",
+  "issueId": 517,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/517",
+  "originalIssueId": 943,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/943"
+}
