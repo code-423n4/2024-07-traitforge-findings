@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Bac0nj",
+  "risk": "3",
+  "title": "Owner of EntropyGenerator must be TraitForgeNft contract",
+  "issueId": 532,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/532",
+  "originalIssueId": 910,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/910"
+}
