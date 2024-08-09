@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x0bserver",
+  "risk": "3",
+  "title": "Incorrect `finalNukeFactor` and Maturation Calculation",
+  "issueId": 453,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/453",
+  "originalIssueId": 1074,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1074"
+}
