@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "TopStar",
+  "risk": "3",
+  "title": "Lack of Excess Ether Refund Mechanism in `EntityForging::forgeWithListed`",
+  "issueId": 992,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/992",
+  "originalIssueId": 44,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/44"
+}
