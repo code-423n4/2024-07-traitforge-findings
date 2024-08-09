@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "TopStar",
+  "risk": "3",
+  "title": "Wrong minting logic based on total token count across generations",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/231",
+  "originalIssueId": 96,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/96"
+}
