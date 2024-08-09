@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "AuditGuy",
+  "risk": "2",
+  "title": "Potential Exclusion of \"The Golden God\" Entropy in Generation",
+  "issueId": 491,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/491",
+  "originalIssueId": 984,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/984"
+}
