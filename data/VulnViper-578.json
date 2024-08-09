@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "VulnViper",
+  "risk": "2",
+  "title": "Unable to pause protocol.",
+  "issueId": 578,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/578",
+  "originalIssueId": 835,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/835"
+}
