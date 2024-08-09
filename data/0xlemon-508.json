@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xlemon",
+  "risk": "2",
+  "title": "Inadequate check in listForForging() allows a forger to forge more than he is supposed to",
+  "issueId": 508,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/508",
+  "originalIssueId": 956,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/956"
+}
