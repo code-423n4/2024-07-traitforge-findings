@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "burnerelu",
+  "risk": "2",
+  "title": "User can maximize profits by front-running",
+  "issueId": 991,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/991",
+  "originalIssueId": 45,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/45"
+}
