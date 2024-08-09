@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "cryptomoon",
+  "risk": "3",
+  "title": "Wrong usage of percentage across the codebase",
+  "issueId": 554,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/554",
+  "originalIssueId": 872,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/872"
+}
