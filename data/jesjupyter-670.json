@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "jesjupyter",
+  "risk": "2",
+  "title": "No Slippage Control in `nuke`",
+  "issueId": 670,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/670",
+  "originalIssueId": 678,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/678"
+}
