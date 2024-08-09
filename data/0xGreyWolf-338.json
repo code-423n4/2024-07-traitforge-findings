@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xGreyWolf",
+  "risk": "3",
+  "title": "In `NukeFund::calculateAge()`, `age` can be zero which means zero claims on `NukeFund::nuke()`",
+  "issueId": 338,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/338",
+  "originalIssueId": 1255,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1255"
+}
