@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "artilugio0",
+  "risk": "2",
+  "title": "Excess ether received in `EntityForging::forgeWithListed` gets locked in the contract",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/218",
+  "originalIssueId": 770,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/770"
+}
