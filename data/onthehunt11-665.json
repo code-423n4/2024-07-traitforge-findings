@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "onthehunt11",
+  "risk": "3",
+  "title": "Possible to have >10k entities per generations",
+  "issueId": 665,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/665",
+  "originalIssueId": 684,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/684"
+}
