@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x3b",
+  "risk": "2",
+  "title": "`_mintInternal` will mint next generation NFT for previous generation price",
+  "issueId": 948,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/948",
+  "originalIssueId": 125,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/125"
+}
