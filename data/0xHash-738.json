@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xHash",
+  "risk": "3",
+  "title": "When an approved actor nukes an entity, the NFT owner will lose Nuke funds.",
+  "issueId": 738,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/738",
+  "originalIssueId": 573,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/573"
+}
