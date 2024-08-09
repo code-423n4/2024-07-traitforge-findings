@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "VulnViper",
+  "risk": "3",
+  "title": "Miscalculation in the `calculateMintPrice` function and allowing tokens to be minted at a lower price than intended.",
+  "issueId": 577,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/577",
+  "originalIssueId": 836,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/836"
+}
