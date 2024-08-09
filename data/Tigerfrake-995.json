@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Incomplete implementation of `pause` functionality",
+  "issueId": 995,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/995",
+  "originalIssueId": 35,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/35"
+}
