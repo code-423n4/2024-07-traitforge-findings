@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xPwned",
+  "risk": "2",
+  "title": "Invalid calculation leading to wrong nuke factor",
+  "issueId": 395,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/395",
+  "originalIssueId": 1173,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1173"
+}
