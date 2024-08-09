@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "JuggerNaut63",
+  "risk": "2",
+  "title": "Loss of Precision in Entropy Calculation Due to Incorrect Division Operation and Token Age Calculation Leading to Potential Exploitation of Funds",
+  "issueId": 873,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/873",
+  "originalIssueId": 298,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/298"
+}
