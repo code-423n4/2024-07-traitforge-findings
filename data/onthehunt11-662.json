@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "onthehunt11",
+  "risk": "2",
+  "title": "entropyGenerator#initializeAlphaIndices() will always revert outside of entropyGenerator contract",
+  "issueId": 662,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/662",
+  "originalIssueId": 687,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/687"
+}
