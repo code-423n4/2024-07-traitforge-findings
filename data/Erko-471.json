@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Erko",
+  "risk": "2",
+  "title": "No excess payment refund in forgeWithListed() function",
+  "issueId": 471,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/471",
+  "originalIssueId": 1033,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1033"
+}
