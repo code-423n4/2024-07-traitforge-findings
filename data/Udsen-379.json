@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Udsen",
+  "risk": "3",
+  "title": "The `pseudoRandomValue != 999999` check in the `EntropyGenerator.writeEntropyBatch1` function is erroneous",
+  "issueId": 379,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/379",
+  "originalIssueId": 1194,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1194"
+}
