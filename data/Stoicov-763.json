@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Stoicov",
+  "risk": "3",
+  "title": "Last NFT from generation 1 can never be minted",
+  "issueId": 763,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/763",
+  "originalIssueId": 528,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/528"
+}
