@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0x0bserver",
+  "risk": "2",
+  "title": "`mintWithBudget` Function Malfunction for Generations Beyond the First",
+  "issueId": 430,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/430",
+  "originalIssueId": 1113,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1113"
+}
