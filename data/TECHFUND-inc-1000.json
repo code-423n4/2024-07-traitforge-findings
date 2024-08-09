@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "Protocol Contracts does not have access pause and unpause functionality",
+  "issueId": 1000,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1000",
+  "originalIssueId": 19,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/19"
+}
