@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "anonymousjoe",
+  "risk": "2",
+  "title": "Incorrect check to prevent golden god in writeEntropyBatch1 and writeEntropyBatch2",
+  "issueId": 716,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/716",
+  "originalIssueId": 605,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/605"
+}
