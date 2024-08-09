@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "waydou",
+  "risk": "3",
+  "title": "`_incrementGeneration` doesn't account for nfts created from forge",
+  "issueId": 971,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/971",
+  "originalIssueId": 89,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/89"
+}
