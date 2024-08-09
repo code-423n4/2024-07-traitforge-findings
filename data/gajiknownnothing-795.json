@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "gajiknownnothing",
+  "risk": "2",
+  "title": "Excessive paid ETH not refunded, leading to locked funds",
+  "issueId": 795,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/795",
+  "originalIssueId": 462,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/462"
+}
