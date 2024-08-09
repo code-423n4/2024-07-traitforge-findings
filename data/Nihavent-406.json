@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Nihavent",
+  "risk": "3",
+  "title": "Incorrect modifier in `EntropyGenerator::initializeAlphaIndices()` prevents incrementing generations",
+  "issueId": 406,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/406",
+  "originalIssueId": 1160,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1160"
+}
