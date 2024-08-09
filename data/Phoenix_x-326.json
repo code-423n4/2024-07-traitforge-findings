@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Phoenix_x",
+  "risk": "2",
+  "title": "Nuke factor miscalculation when deriving token parameters",
+  "issueId": 326,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/326",
+  "originalIssueId": 1275,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1275"
+}
