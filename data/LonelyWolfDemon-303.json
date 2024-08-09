@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "LonelyWolfDemon",
+  "risk": "2",
+  "title": "Unnecessary Use of Pausable Modifiers in Smart Contracts Without Corresponding Pause/Unpause Functionality",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/303",
+  "originalIssueId": 1324,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1324"
+}
