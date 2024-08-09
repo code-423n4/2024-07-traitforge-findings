@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "`maxGeneration` can be exceeded in `mintToken()` and `mintWithBudget()`",
+  "issueId": 768,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/768",
+  "originalIssueId": 521,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/521"
+}
