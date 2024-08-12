@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Trooper",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 1020,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1020",
+  "originalIssueId": 763,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/763"
+}
