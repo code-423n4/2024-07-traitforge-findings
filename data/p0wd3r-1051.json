@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "p0wd3r",
+  "risk": "3",
+  "title": "Miss slippage protection for amountMinted in mintWithBudget.",
+  "issueId": 1051,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1051",
+  "originalIssueId": 221,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/221"
+}
