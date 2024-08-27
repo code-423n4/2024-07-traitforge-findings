@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "Forger NFT owner could `grief Merger` when they call `forgeWithListed` by making the call revert when receiving funds",
+  "issueId": 1053,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1053",
+  "originalIssueId": 769,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/769"
+}
