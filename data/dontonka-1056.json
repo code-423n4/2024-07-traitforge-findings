@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "NFT seller could `grief buyer` when they call buyNFT by making the call reverts",
+  "issueId": 1056,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1056",
+  "originalIssueId": 773,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/773"
+}
