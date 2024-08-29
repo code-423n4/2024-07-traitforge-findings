@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xHelium",
+  "risk": "3",
+  "title": "User can lose on gas by calling mintWithBudget() if his budget is enough to lead to a transaction being out of gas",
+  "issueId": 1058,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1058",
+  "originalIssueId": 99,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/99"
+}
