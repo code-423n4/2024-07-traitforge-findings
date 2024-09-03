@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xDemon",
+  "risk": "2",
+  "title": "There is no mechanism to withdraw funds from NukeFund contract, this causes the remaining funds on NukeFund to be locked",
+  "issueId": 1062,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1062",
+  "originalIssueId": 881,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/881"
+}
