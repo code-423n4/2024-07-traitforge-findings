@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "0xlemon",
+  "risk": "2",
+  "title": "A dev will lose rewards if after claiming his rewards he mints an NFT",
+  "issueId": 1060,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1060",
+  "originalIssueId": 1014,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1014"
+}
