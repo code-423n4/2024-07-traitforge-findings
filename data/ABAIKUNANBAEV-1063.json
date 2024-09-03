@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Incorrect checking for slot index in getEntropy() and getNextEntropy()",
+  "issueId": 1063,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1063",
+  "originalIssueId": 849,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/849"
+}
