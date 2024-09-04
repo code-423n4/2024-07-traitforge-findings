@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "lastForgeResetTimestamp in EntityForging does activate when mint like what documentation stated",
+  "issueId": 1073,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1073",
+  "originalIssueId": 494,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/494"
+}
