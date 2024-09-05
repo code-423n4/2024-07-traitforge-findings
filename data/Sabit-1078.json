@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Sabit",
+  "risk": "3",
+  "title": "Funds can be locked indefinitely in NukeFund.sol",
+  "issueId": 1078,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1078",
+  "originalIssueId": 594,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/594"
+}
