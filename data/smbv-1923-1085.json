@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "smbv-1923",
+  "risk": "3",
+  "title": "NFT Token cannot be `nuked` even if `minimumDaysHeld` period has been passed.",
+  "issueId": 1085,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1085",
+  "originalIssueId": 1165,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1165"
+}
