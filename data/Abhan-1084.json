@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "Abhan",
+  "risk": "3",
+  "title": "User cannot nuke NFT after `minimumDaysHeld` if user `listNFTForSale` and `cancelListing` of NFT",
+  "issueId": 1084,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1084",
+  "originalIssueId": 1276,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1276"
+}
