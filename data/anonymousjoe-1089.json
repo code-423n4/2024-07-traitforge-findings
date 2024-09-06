@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "anonymousjoe",
+  "risk": "2",
+  "title": "All entities will have 0 entropy",
+  "issueId": 1089,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1089",
+  "originalIssueId": 706,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/706"
+}
