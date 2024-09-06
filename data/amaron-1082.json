@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "amaron",
+  "risk": "3",
+  "title": "wrong contracts deployment, can lead to severe results where tokens has no entropy.",
+  "issueId": 1082,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1082",
+  "originalIssueId": 1475,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1475"
+}
