@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "pep7siup",
+  "risk": "2",
+  "title": "Potential Uninitialized `entropySlots` Reading in `getNextEntropy`, Causing 0 Entropy Mint",
+  "issueId": 1086,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1086",
+  "originalIssueId": 945,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/945"
+}
