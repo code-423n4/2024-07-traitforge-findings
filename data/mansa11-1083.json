@@ -1,0 +1,10 @@
+{
+  "contest": 420,
+  "handle": "mansa11",
+  "risk": "2",
+  "title": "Title Users can be temporary DOSed and unable to `nuke`",
+  "issueId": 1083,
+  "issueUrl": "https://github.com/code-423n4/2024-07-traitforge-findings/issues/1083",
+  "originalIssueId": 1417,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-traitforge-validation/issues/1417"
+}
